@@ -10,7 +10,7 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 ## 🤘**Connect with Me**
 
 <p align="center">
- <img alt="Coder GIF" style="border-radius:3px;" height=300 width=450 src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+ <img alt="Coder GIF" style="border-radius:3px;" height=300 width=450 src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966" />
 </p>
 <div align="center">
 I would love to make some friends. Reach out to me.🤜🤛
