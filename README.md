@@ -1,5 +1,5 @@
 (https://www.linkpicture.com/q/Future-Tech-Youtube-Thumbnail.png)](https://www.linkpicture.com/view.php?img=LPic641447d381df02089541735)
-<img src="https://www.linkpicture.com/q/Future-Tech-Youtube-Thumbnail.png" alt="Divyanshu Verma" border="0" width=100%>
+<img src="https://www.linkpicture.com/q/Future-Tech-Youtube-Thumbnail.png" alt="Nitya Bharti" border="0" width=100%>
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Nitya👋</span>
 </h2>
